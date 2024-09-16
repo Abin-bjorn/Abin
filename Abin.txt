@@ -1,0 +1,10 @@
+
+Top 3 results for query 'Phone':
+Rank 1: Document 2 with score 0.2993
+Rank 2: Document 1 with score 0.0766
+Rank 3: Document 3 with score 0.0000
+
+Top 3 results for query 'software version':
+Rank 1: Document 2 with score 0.2263
+Rank 2: Document 3 with score 0.0697
+Rank 3: Document 1 with score 0.0000
